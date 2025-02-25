@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 my name is Niko!<br/> I'm a Software Engineer from Ontario, Canada!</h2>
+<h2 align="center">Hi 👋 my name is Niko!<br/> I'm a Software Engineer from Toronto, Ontario, Canada!</h2>
 
 ###
 
