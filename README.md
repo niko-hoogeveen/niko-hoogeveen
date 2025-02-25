@@ -37,13 +37,3 @@
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="12" />
 </div>
-
-###
-
-<br clear="both">
-<div align="center">
-  <img src="https://raw.githubusercontent.com/niko-hoogeveen/niko-hoogeveen/output/snake.svg" alt="Snake animation" />  
-</div>
-
-
-###
