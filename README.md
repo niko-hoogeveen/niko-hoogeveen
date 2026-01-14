@@ -1,10 +1,6 @@
 <h2 align="center">Hi 👋 my name is Niko!<br/> I'm a Software Engineer from Toronto, Ontario, Canada!</h2>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niko-hoogeveen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide=css,scss&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
-</div>
 <div align="center">
   <div>
       <a href="https://www.linkedin.com/in/niko-hoogeveen-52b7a9205/" target="_blank">
